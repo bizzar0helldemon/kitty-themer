@@ -1,0 +1,18 @@
+{
+  "name": "Edward Netrunner",
+  "description": "Warm earth tones with neon accents — inspired by Radical Edward from Cowboy Bebop",
+  "author": "akhenaten",
+  "created": "2026-04-04",
+  "palette": {
+    "accent": "#ff6ac1",
+    "username": "#ff9e64",
+    "directory": "#e0af68",
+    "info": "#7dcfff",
+    "success": "#9ece6a",
+    "error": "#f7768e",
+    "git_branch": "#bb9af7",
+    "muted": "#4a4238",
+    "background": "#1a1612",
+    "foreground": "#d4c8b5"
+  }
+}

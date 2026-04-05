@@ -1,0 +1,28 @@
+{
+    "name": "Edward Netrunner",
+    "foreground": "#d4c8b5",
+    "background": "#1a1612",
+    "cursor": "#ff6ac1",
+    "bright_foreground": "#e8dcc8",
+    "dim_foreground": "#8a7e6e",
+    "normal": {
+        "black": "#2a241e",
+        "red": "#f7768e",
+        "green": "#9ece6a",
+        "yellow": "#e0af68",
+        "blue": "#7dcfff",
+        "magenta": "#bb9af7",
+        "cyan": "#7dcfff",
+        "white": "#d4c8b5"
+    },
+    "bright": {
+        "black": "#4a4238",
+        "red": "#ff6ac1",
+        "green": "#b9e08e",
+        "yellow": "#ff9e64",
+        "blue": "#a8dfff",
+        "magenta": "#d4b5ff",
+        "cyan": "#a8dfff",
+        "white": "#e8dcc8"
+    }
+}
