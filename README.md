@@ -79,6 +79,8 @@ Saved themes live in `themes/<name>/` with all the config files, a portable `col
 
 Inspired by Radical Edward from Cowboy Bebop — warm earth tones with neon accents.
 
+![Edward Netrunner theme preview](themes/edward-netrunner/preview.png)
+
 | Role | Color | Hex |
 |------|-------|-----|
 | Accent | Pink | `#ff6ac1` |
