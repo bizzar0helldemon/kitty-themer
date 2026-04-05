@@ -23,6 +23,8 @@ beautiful, personalized terminal aesthetic using natural language.
    - `~/.zshrc` — fzf colors (FZF_DEFAULT_OPTS) and LS_COLORS only
    - `~/.tmux.conf` — status bar, pane borders (if tmux is installed)
 
+   Templates for all of these are in `templates/` (including `tmux.conf.tpl`).
+
 5. **Save the theme.** After the user approves, save it to `themes/<name>/`
    inside this repo so it can be shared or restored later. Use the `save-theme.sh`
    script or do it manually:

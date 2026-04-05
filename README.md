@@ -47,9 +47,9 @@ claude
 That's the whole interface. Claude reads the project instructions automatically and becomes your theming assistant. Try:
 
 - *"I want an Outlaw Star aesthetic — the red of the XGP, deep space blacks, gold accents"*
-- *"Make it look like a Sega Dreamcast boot screen"*
+- *"The Matrix — green phosphor rain on pitch black"*
 - *"Monokai but warmer, like a coffee shop at night"*
-- *"Ghost in the Shell — cold cyborg blues and terminal greens"*
+- *"Cyberpunk 2077 — hot yellow warnings and neon magenta on dark chrome"*
 
 ### 3. Approve and apply
 
@@ -123,7 +123,8 @@ kitty-themer/
 ├── templates/
 │   ├── kitty.conf.tpl      # Config skeletons with {{PLACEHOLDER}} tokens
 │   ├── starship.toml.tpl
-│   └── fastfetch.jsonc.tpl
+│   ├── fastfetch.jsonc.tpl
+│   └── tmux.conf.tpl
 └── themes/
     └── edward-netrunner/   # Example theme
 ```

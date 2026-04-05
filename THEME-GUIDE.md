@@ -286,10 +286,7 @@ When asking Claude to retheme, it should update ALL of these:
 - [ ] `.zshrc` — FZF_DEFAULT_OPTS colors, LS_COLORS
 - [ ] `.tmux.conf` — status bar, borders, window styles
 - [ ] `kitty.conf` — foreground, background, cursor, ANSI color0-15
-- [ ] `edward-netrunner.json` — update portable color scheme source
-- [ ] `edward-netrunner.ron` — update COSMIC Terminal color scheme
-- [ ] This file's "current theme" reference (so the guide stays accurate)
-- [ ] Suggest a matching COSMIC terminal background color
+- [ ] Save theme to `themes/<name>/` with `colors.json` and `metadata.json`
 
 After retheme, restart your terminal or run:
 ```bash
